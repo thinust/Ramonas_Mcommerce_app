@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ramonaas</string>
+    <string name="app_version">Version 1.0.0</string>
+    <string name="app_copyright">&#169; 2022-2023 Ramonas.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Search</string>
+    <string name="web_client_id">698479832364-n902ddtv0fbrfao7t5spdjheam6m6m8g.apps.googleusercontent.com</string>
+    <string name="country_code">+94</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698479832364",
+    "project_id": "ramonas-fa730",
+    "storage_bucket": "ramonas-fa730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698479832364:android:2986b1b51a2a1c23829089",
+        "android_client_info": {
+          "package_name": "com.oriensolutions.ramonaas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698479832364-7qgjdgbc404crntfirkbo7ho1jeda66i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oriensolutions.ramonaas",
+            "certificate_hash": "031887cb5231255fed88330a209e9970890d9e29"
+          }
+        },
+        {
+          "client_id": "698479832364-n902ddtv0fbrfao7t5spdjheam6m6m8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9pCZjf6IzIeDZI5vs2efhJaabFp6HqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698479832364-gfrk8nqh8eedbrmoune1m00316ovbatr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
